@@ -6,3 +6,7 @@
 	path = DescriptiveRepresentationCalculator
 	url = https://github.com/cjerzak/descriptiverepresentationcalculator-software
 	subdir = DescriptiveRepresentationCalculator
+[submodule "fastrerandomize"]
+	path = fastrerandomize
+	url = https://github.com/cjerzak/fastrerandomize-software
+	subdir = fastrerandomize
