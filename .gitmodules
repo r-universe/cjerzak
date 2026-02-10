@@ -10,3 +10,7 @@
 	path = fastrerandomize
 	url = https://github.com/cjerzak/fastrerandomize-software
 	subdir = fastrerandomize
+[submodule "lpmec"]
+	path = lpmec
+	url = https://github.com/cjerzak/lpmec-software
+	subdir = lpmec
